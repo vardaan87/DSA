@@ -83,7 +83,6 @@ This repository will evolve as I progress in my journey.
 ## 📅 Timeline
 
 Started: `June 2025`  
-Target Completion: `[Set your target]`
 
 ---
 
